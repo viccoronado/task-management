@@ -27,6 +27,3 @@ _En este repositorio está disponible la colección de Postman con los endpoints
 
 * NodeJS
 * NestJS
-
----
-⌨️ con ❤️ por [vcoronado](https://github.com/viccoronado) 😊
